@@ -1,0 +1,17 @@
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Service.deps.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Service.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Service.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Repository.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\bin\Debug\net7.0\BAYA.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.csproj.CopyComplete
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\refint\BAYA.Service.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\BAYA.Service.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Service\obj\Debug\net7.0\ref\BAYA.Service.dll

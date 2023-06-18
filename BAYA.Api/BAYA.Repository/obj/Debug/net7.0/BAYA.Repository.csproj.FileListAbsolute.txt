@@ -1,0 +1,17 @@
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\bin\Debug\net7.0\BAYA.Repository.deps.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\bin\Debug\net7.0\BAYA.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\bin\Debug\net7.0\BAYA.Repository.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\bin\Debug\net7.0\BAYA.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\bin\Debug\net7.0\BAYA.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.csproj.CopyComplete
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\refint\BAYA.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\ref\BAYA.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\bin\Debug\net7.0\BAYA.Repository.runtimeconfig.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Repository\obj\Debug\net7.0\BAYA.Repository.genruntimeconfig.cache

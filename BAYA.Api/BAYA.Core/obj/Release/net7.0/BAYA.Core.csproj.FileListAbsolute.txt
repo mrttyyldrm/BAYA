@@ -1,0 +1,14 @@
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\bin\Release\net7.0\BAYA.Core.deps.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\bin\Release\net7.0\BAYA.Core.runtimeconfig.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\bin\Release\net7.0\BAYA.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\bin\Release\net7.0\BAYA.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\refint\BAYA.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\BAYA.Core.genruntimeconfig.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BAYA.Api\BAYA.Core\obj\Release\net7.0\ref\BAYA.Core.dll
