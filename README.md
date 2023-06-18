@@ -19,6 +19,9 @@ Haritalandırılmış panel üzerinde gösterilen veriler ile depremden etkilene
 #### BAYA Kullanıcı Analiz Paneli
 ![BAYA User Analise Panel](https://github.com/mrttyyldrm/BAYA/assets/98252720/3aedede4-3060-48e8-b558-16793972e385)
 
+#### Figma Akış Diyagramı
+![Figma Prototype](https://github.com/mrttyyldrm/BAYA/assets/98252720/ae2ae683-475f-4f51-8ced-a6384dc7f00a)
+
 ## CANLI DENEYİN
 Projemizi BAYA Web Uygulamamsı ve BAYA Kullanıcı Analiz Paneli üzerinden canlı olarak test edebilirsiniz.
 
