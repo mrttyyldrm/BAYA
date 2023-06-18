@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAYA | Yardım Talebi Oluştur</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <!--Google Fonts CDN-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <main>
+        <div id="loading">
+            <div id="loading-logo">
+                <img src="assets/img/logo.svg" alt="BAYA">
+                <i class="fa-solid fa-spinner fa-spin"></i>
+            </div>
+            <div id="loading-template">
+                <button><b>Temel HTML Görüntüle</b><br>
+                (Yavaş Bağlantılar İçin)</button>
+            </div>
+        </div>
+        <section id="request">
+            <div id="request-navigation">
+                <div class="step active" content="category"></div>
+                <div class="step" content="county"></div>
+                <div class="step" content="district"></div>
+                <div class="step" content="street"></div>
+            </div>
+            <div id="request-content">
+                <section id="category">
+                    <div class="container">
+                        <div id="category-title">
+                            <h1>Kategori Seçimi</h1>
+                            <p>Yardım almak istediğiniz kategoriyi veya enkaz bildirim talebinizi seçiniz.</p>
+                        </div>
+                        <div id="category-content">
+                            <article class="category">
+                                <div class="category-icon">
+                                    <img src="assets/img/health.svg" alt="Sağlık">
+                                </div>
+                                <h3>Sağlık</h3>
+                            </article>
+                            <article class="category">
+                                <div class="category-icon">
+                                    <img src="assets/img/location.svg" alt="Sağlık">
+                                </div>
+                                <h3>Barınma</h3>
+                            </article>
+                            <article class="category">
+                                <div class="category-icon">
+                                    <img src="assets/img/box.svg" alt="Sağlık">
+                                </div>
+                                <h3>Erzak</h3>
+                            </article>
+                            <article class="category">
+                                <div class="category-icon">
+                                    <img src="assets/img/clothes.svg" alt="Sağlık">
+                                </div>
+                                <h3>Kıyafet</h3>
+                            </article>
+                        </div>
+                        <div id="category-button">
+                            <button>Enkaz Bildirimi</button>
+                        </div>
+                        <div id="subcategory">
+                            <div class="container">
+                                <div id="subcategory-title">
+                                    <h1>Alt Kategori Seçimi</h1>
+                                    <p>Yardım almak istediğiniz alt kategoriyi seçiniz.</p>
+                                </div>
+                                <div id="subcategory-content">
+                                    <div class="subcategory-group" type="Sağlık">
+                                        <article class="subcategory" >İlaç</article>
+                                        <article class="subcategory">Hijyen Malzemeleri</article>
+                                        <article class="subcategory">Bebek Bezi</article>
+                                        <article class="subcategory">Tıbbi Ekipman</article>
+                                        <article class="subcategory">İlk Yardım Malzemeleri</article>
+                                    </div>
+                                    <div class="subcategory-group" type="Erzak">
+                                        <article class="subcategory">Bebek/Çocuk Gıdaları</article>
+                                        <article class="subcategory">Su/İçecek</article>
+                                        <article class="subcategory">Temel Gıdalar</article>
+                                        <article class="subcategory">Hayvan Mamaları</article>
+                                        <article class="subcategory">Konserve/Hazır Gıdalar</article>
+                                    </div>
+                                    <div class="subcategory-group" type="Kıyafet">
+                                        <article class="subcategory">Çocuk Giyim</article>
+                                        <article class="subcategory">Dış Giyim</article>
+                                        <article class="subcategory">İç Giyim</article>
+                                        <article class="subcategory">Bebek Seti</article>
+                                    </div>
+                                    <div class="subcategory-group" type="Barınma">
+                                        <article class="subcategory">Tuvalet</article>
+                                        <article class="subcategory">Çadır/Konteynır</article>
+                                        <article class="subcategory">Isınma</article>
+                                        <article class="subcategory">Uyku Tulumu/Battaniye</article>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="location">
+                    <div class="container">
+                        <div id="location-content">
+                            <div id="location-icon">
+                                <div id="icon-content">
+                                    <img src="assets/img/location-icon.svg">
+                                </div>
+                            </div>
+                            <div id="location-title">
+                                <h1>Konumunuzu<br>
+                                Paylaşın</h1>
+                                <p>Yerinizi tam doğruluk ile tespit edebilmek<br>
+                                için konum verinizi ekleyin.</p>
+                            </div>
+                            <div id="location-result">
+                                <p></p>
+                            </div>
+                        </div>
+                        <div id="location-button">
+                            <button id="search-location-btn">Konum Ara</button>
+                            <button id="search-next-btn">Devam Et</button>
+                        </div>
+                        <div class="location" id="county">
+                            <div class="container">
+                                <div class="location-title">
+                                    <h1>İlçe Seçimi</h1>
+                                    <p>Yardım almak istediğiniz ilçeyi seçiniz.</p>
+                                </div>
+                                <div class="location-content">
+                                    <article class="county">Osmangazi</article>
+                                    <article class="county">Yıldırım</article>
+                                    <article class="county">Nilüfer</article>
+                                    <article class="county">İnegöl</article>
+                                    <article class="county">Gemlik</article>
+                                    <article class="county">Mudanya</article>
+                                    <article class="county">Gürsu</article>
+                                    <article class="county">Mustafakemalpaşa</article>
+                                    <article class="county">Karacabey</article>
+                                    <article class="county">Orhangazi</article>
+                                    <article class="county">Kestel</article>
+                                    <article class="county">Yenişehir</article>
+                                    <article class="county">İznik</article>
+                                    <article class="county">Orhaneli</article>
+                                    <article class="county">Keles</article>
+                                    <article class="county">Büyükorhan</article>
+                                    <article class="county">Harmancık</article>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="location" id="district">
+                            <div class="container">
+                                <div class="location-title">
+                                    <h1>Mahalle Seçimi</h1>
+                                    <p>Yardım almak istediğiniz mahalleyi seçiniz.</p>
+                                </div>
+                                <div class="location-content">
+                                    <article class="district">Adalet Mah.</article>
+                                    <article class="district">Bahar Mah.</article>
+                                    <article class="district">Doğanbey Mah.</article>
+                                    <article class="district">Fatih Mah.</article>
+                                    <article class="district">İstiklal Mah.</article>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="location" id="street">
+                            <div class="container">
+                                <div class="location-title">
+                                    <h1>Sokak Seçimi</h1>
+                                    <p>Yardım almak istediğiniz sokağı seçiniz.</p>
+                                </div>
+                                <div class="location-content">
+                                    <article class="street">Okul Sk.</article>
+                                    <article class="street">Deveci Sk.</article>
+                                    <article class="street">Levent Sk.</article>
+                                    <article class="street">Park Sk.</article>
+                                    <article class="street">Yardım Sk.</article>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+    </main>
+
+    <!--FontAwesome CDN-->
+    <script src="https://kit.fontawesome.com/486aaf834f.js"></script>
+    <!--Jquery CDN-->
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="assets/js/request.js"></script>
+</body>
+</html>

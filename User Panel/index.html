@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAYA | Kullanıcı Analiz Paneli</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <!--Google Fonts CDN-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="loading">
+        <div id="loading-logo">
+            <img src="assets/img/logo.svg" alt="BAYA">
+            <i class="fa-solid fa-spinner fa-spin"></i>
+        </div>
+        <div id="loading-template">
+            <button><b>Temel HTML Görüntüle</b><br>
+            (Yavaş Bağlantılar İçin)</button>
+        </div>
+    </div>
+    <div id="success">
+        <div class="container">
+            <div id="success-content">
+                <div id="success-icon">
+                    <div id="icon-content">
+                        <i class="fa-regular fa-circle-check"></i>
+                    </div>
+                </div>
+                <div id="success-title">
+                    <h1>İşlem Başarılı</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="error">
+        <div class="container">
+            <div id="error-content">
+                <div id="error-icon">
+                    <div id="icon-content">
+                        <i class="fa-regular fa-circle-xmark"></i>
+                    </div>
+                </div>
+                <div id="error-title">
+                    <h1>Hatalı İşlem</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <main>
+    </main>
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="assets/js/chart.js"></script>
+    <!--FontAwesome CDN-->
+    <script src="https://kit.fontawesome.com/486aaf834f.js"></script>
+    <!--Jquery CDN-->
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="assets/js/index.js"></script>
+</body>
+</html>
